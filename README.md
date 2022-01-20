@@ -1,5 +1,5 @@
 <div align="center"> <img src="Screenshots/main.png" width="500" height="250"> </center> </div>
-<h3> Link-https://pan-card-tampering-app.herokuapp.com/ </h3>
+<h3> Link-https://pancardtamper.herokuapp.com/ </h3>
 <i>
 
 <h3><i> IN THIS PROJECT. WE WILL DETECT TAMPERING OF PAN CARD USING COMPUTER VISION. THIS PROJECT WILL HELP THE DIFFERENT ORGANIZATIONS IN DETECTING WHETHER THE ID I.E. THE PAN CARD PROVIDED TO THEM BY THEIR EMPLOYEES OR CUSTOMERS OR ANYONE IS ORIGINAL OR NOT. </h3>
